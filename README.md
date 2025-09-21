@@ -4,6 +4,7 @@ This repository contains my Python revision codes, exercises, and practice scrip
 It is organized by topics to make it easy to navigate and review.
 
 ## 📂 Structure
+- Python basics
 - a menu-driven calculator
 - the factorial of a number
 
