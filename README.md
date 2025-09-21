@@ -1,14 +1,16 @@
-# Menu-Driven Calculator 🧮
+# Python Revision 🐍
 
-This is a simple **menu-driven calculator** implemented in Python.  
-It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division through an interactive menu.
+This repository contains my Python revision codes, exercises, and practice scripts.  
+It is organized by topics to make it easy to navigate and review.
 
-## Features
-- Addition ➕
-- Subtraction ➖
-- Multiplication ✖️
-- Division ➗
-- Exit option to quit the program
+## 📂 Structure
+- a menu-driven calculator
+- the factorial of a number
+
+## 🎯 Purpose
+- Revise Python fundamentals
+- Practice coding through small exercises
+- Build a reference for future projects
 
 ## Requirements
 - Python 3.x
