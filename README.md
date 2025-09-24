@@ -7,6 +7,7 @@ It is organized by topics to make it easy to navigate and review.
 - Python basics
 - a menu-driven calculator
 - the factorial of a number
+- find the largest number in the list
 
 ## 🎯 Purpose
 - Revise Python fundamentals
