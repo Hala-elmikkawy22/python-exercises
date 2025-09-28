@@ -10,6 +10,7 @@ It is organized by topics to make it easy to navigate and review.
 - find the largest number in the list
 - a function to check if the number is odd or even
 - Create a module and use it
+- data structure ( list , tuble, dictionary and sets)
 
 ## 🎯 Purpose
 - Revise Python fundamentals
