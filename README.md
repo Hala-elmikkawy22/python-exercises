@@ -8,6 +8,7 @@ It is organized by topics to make it easy to navigate and review.
 - a menu-driven calculator
 - the factorial of a number
 - find the largest number in the list
+- Create a module and use it
 
 ## 🎯 Purpose
 - Revise Python fundamentals
