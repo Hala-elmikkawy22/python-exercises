@@ -5,12 +5,13 @@ It is organized by topics to make it easy to navigate and review.
 
 ## 📂 Structure
 - Python basics
-- a menu-driven calculator
-- the factorial of a number
-- find the largest number in the list
-- a function to check if the number is odd or even
-- Create a module and use it
-- data structure ( lists, tuples, dictionaries, and sets)
+- a menu-driven calculator.
+- the factorial of a number.
+- Find the largest number in the list.
+- a function to check if the number is odd or even.
+- Create a module and use it.
+- data structure ( lists, tuples, dictionaries, and sets).
+- Reverse the list and remove the duplication.
 
 ## 🎯 Purpose
 - Revise Python fundamentals
