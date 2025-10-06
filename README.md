@@ -12,6 +12,7 @@ It is organized by topics to make it easy to navigate and review.
 - Create a module and use it.
 - data structure ( lists, tuples, dictionaries, and sets).
 - Reverse the list and remove the duplication.
+- Hands-on exercises work with strings.
 
 ## 🎯 Purpose
 - Revise Python fundamentals
