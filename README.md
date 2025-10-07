@@ -13,6 +13,7 @@ It is organized by topics to make it easy to navigate and review.
 - data structure ( lists, tuples, dictionaries, and sets).
 - Reverse the list and remove the duplication.
 - Hands-on exercises work with strings.
+- Code to count lines and words in files.
 
 ## 🎯 Purpose
 - Revise Python fundamentals
