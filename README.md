@@ -14,6 +14,7 @@ It is organized by topics to make it easy to navigate and review.
 - Reverse the list and remove the duplication.
 - Hands-on exercises work with strings.
 - Code to count lines and words in files.
+- Write items to a file and read from it.
 
 ## 🎯 Purpose
 - Revise Python fundamentals
