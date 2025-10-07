@@ -15,6 +15,8 @@ It is organized by topics to make it easy to navigate and review.
 - Hands-on exercises work with strings.
 - Code to count lines and words in files.
 - Write items to a file and read from it.
+- Write data to a file, read it, then copy it to another file.
+- Copy a file from a source file to a destination file.
 
 ## 🎯 Purpose
 - Revise Python fundamentals
