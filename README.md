@@ -17,6 +17,7 @@ It is organized by topics to make it easy to navigate and review.
 - Write items to a file and read from it.
 - Write data to a file, read it, then copy it to another file.
 - Copy a file from a source file to a destination file.
+- counts the number of occurrences of a specific word.
 
 ## 🎯 Purpose
 - Revise Python fundamentals
@@ -31,3 +32,8 @@ It is organized by topics to make it easy to navigate and review.
 1. Open the notebook:
    ```bash
    jupyter notebook "a menu-driven calculator.ipynb"
+
+## 💡 Notes
+- Each file is self-contained and easy to run.
+- Comments are included to explain logic and improve readability.
+- This repository is continuously updated as I practice more Python exercises.
