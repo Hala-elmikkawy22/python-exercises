@@ -18,6 +18,7 @@ It is organized by topics to make it easy to navigate and review.
 - Write data to a file, read it, then copy it to another file.
 - Copy a file from a source file to a destination file.
 - counts the number of occurrences of a specific word.
+- Tasks Manager to add tasks, view them, mark tasks as complete, and delete them.
 
 ## 🎯 Purpose
 - Revise Python fundamentals
